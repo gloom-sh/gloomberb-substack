@@ -3,7 +3,7 @@
 Your Substack subscriptions in [Gloomberb](https://github.com/gloom-sh/gloomberb) — inbox, per-publication archives, and full article reading without leaving the terminal.
 
 ```bash
-gloomberb install substack
+gloomberb install gloom-sh/gloomberb-substack
 ```
 
 Then press `SUB` in the command bar.
