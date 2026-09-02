@@ -1,5 +1,6 @@
 {
   "id": "substack",
+  "name": "Substack",
   "tagline": "Read your Substack subscriptions in the terminal",
   "description": "Your Substack inbox, per-publication archives, and full article reading without leaving Gloomberb. Signs in with a Substack magic link.",
   "categories": [
