@@ -1,0 +1,18 @@
+{
+  "id": "substack",
+  "tagline": "Read your Substack subscriptions in the terminal",
+  "description": "Your Substack inbox, per-publication archives, and full article reading without leaving Gloomberb. Signs in with a Substack magic link.",
+  "categories": [
+    "news",
+    "reading"
+  ],
+  "targets": [
+    "cli",
+    "tui",
+    "desktop"
+  ],
+  "hosts": [
+    "substack.com"
+  ],
+  "minGloomberb": "0.12.0"
+}
